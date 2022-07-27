@@ -11,7 +11,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-<a href="https://d1gitalclock.netlify.app/" target="_blank"><img src="https://i.imgur.com/n3TUZhe.gif"  width=900px height=400px/></a>
+<a href="https://d1gitalclock.netlify.app/" target="_blank"><img src="https://i.imgur.com/n3TUZhe.gif"  width=800px height=400px/></a>
 
 </div>
 
